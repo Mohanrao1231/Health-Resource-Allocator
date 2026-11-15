@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏥 PulseTriage™ — Emergency Department Triage Priority Service
 
 A clinical decision support, real-time patient prioritization, and physician resource dispatching engine for Emergency Departments (ED). Built using **Spring Boot 3**, **Spring Data JPA**, and fundamental **Computer Science Data Structures & Algorithms (DSA)** to prioritize emergency patients based on clinical severity, vital sign derangements, wait time, and available hospital resources.
@@ -228,3 +229,6 @@ docker compose up --build
 ## 🧑‍💻 About the Project
 
 Designed and developed as an Emergency Department prioritization and queue management service. Incorporates clean architecture, domain-driven design, and thread-safe data structures suitable for high-throughput clinical healthcare systems.
+=======
+# Health-Resource-Allocator
+>>>>>>> 55646633a3fab08946294f4f4e214b74daa2de06
